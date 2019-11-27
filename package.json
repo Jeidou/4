@@ -1,0 +1,20 @@
+{
+  "name": "lets-build-bridges",
+  "version": "1.0.0",
+  "description": "Logic puzzle game",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [
+    "puzzle",
+    "game",
+    "logic",
+    "japanese"
+  ],
+  "devDependencies": {
+    "arcadia": "^2.0.1",
+    "sona": "^1.0.3",
+    "uglify-js": "^2.6.2"
+  },
+  "author": "",
+  "license": "MIT"
+}
